@@ -1,53 +1,57 @@
-#  Superstore Sales Analysis & Dashboard
+#  Superstore Sales Data Analysis Using Excel
 
 ##  Project Overview
 
-The **Superstore Sales Analysis & Dashboard** is a data analytics and visualization project developed to analyze business performance using Superstore sales data.
+This project focuses on analyzing Superstore sales data using Microsoft Excel. The goal is to transform raw sales data into meaningful business insights through data cleaning, data analysis, Pivot Tables, charts, and dashboard creation.
 
-This project focuses on transforming raw data into meaningful business insights through data cleaning, data analysis, and interactive dashboard visualizations.
-
-The dashboard provides a clear overview of sales, profit, product performance, customer segments, and regional sales trends to support data-driven decision-making.
+The project helps understand sales performance, product trends, customer segments, and regional business performance.
 
 ##  Project Objectives
 
-- Analyze overall sales and profit performance.
-- Identify top-performing products and categories.
-- Compare sales performance across different regions.
-- Understand customer purchasing behavior.
-- Analyze sales and profit trends.
-- Identify business growth opportunities.
-- Present insights through interactive visualizations.
+- Analyze overall sales and profit.
+- Identify top-performing products.
+- Understand regional sales performance.
+- Analyze customer segments.
+- Track sales and profit trends.
+- Create meaningful business reports.
+- Support data-driven decision-making.
 
 ##  Tools & Technologies
 
-- **Power BI** – Dashboard development and visualization.
-- **Microsoft Excel** – Data storage and initial data preparation.
-- **Power Query** – Data cleaning and transformation.
-- **DAX** – Measures and calculated metrics.
-- **Data Visualization** – Business insights and reporting.
+- Microsoft Excel
+- Pivot Tables
+- Pivot Charts
+- Excel Formulas
+- Data Cleaning
+- Data Visualization
+- Excel Dashboard
 
-##  Project Components
+##  Project Workflow
 
-### 1. Data Preparation
-- Importing Superstore dataset.
-- Handling missing and duplicate values.
-- Checking data types and formatting.
-- Preparing data for analysis.
+### 1. Data Cleaning
+- Remove duplicate records.
+- Handle missing values.
+- Format columns and data types.
+- Organize raw sales data.
 
 ### 2. Data Analysis
-- Sales performance analysis.
-- Profitability analysis.
-- Regional performance analysis.
+- Sales analysis.
+- Profit analysis.
+- Regional analysis.
 - Product category analysis.
 - Customer segment analysis.
 
-### 3. Dashboard Development
-- KPI Cards.
-- Sales by Region Bar Chart.
-- Sales and Profit Analysis.
-- Product Performance.
-- Category Analysis.
-- Interactive Filters and Slicers.
+### 3. Data Visualization
+- Create charts and graphs.
+- Build Pivot Charts.
+- Compare sales performance.
+- Present important business insights.
+
+### 4. Dashboard Development
+- Design an interactive Excel dashboard.
+- Display key performance indicators (KPIs).
+- Visualize sales and profit trends.
+- Use filters and slicers for interactive analysis.
 
 ##  Key Performance Indicators (KPIs)
 
@@ -57,64 +61,61 @@ The dashboard provides a clear overview of sales, profit, product performance, c
 - Total Quantity
 - Average Sales
 
-##  Dashboard Features
+##  Key Features
 
-- Interactive dashboard design.
-- Regional sales comparison.
-- Product performance visualization.
-- Category-wise analysis.
-- Customer segment insights.
-- Dynamic filtering and slicers.
-- Easy-to-understand business reports.
+- Clean and organized dataset.
+- Interactive Pivot Tables.
+- Dynamic charts and visualizations.
+- Sales and profit analysis.
+- Regional performance tracking.
+- Product performance analysis.
+- Interactive Excel dashboard.
 
-##  Key Insights
+##  Business Insights
 
-This project helps users:
-- Understand overall business performance.
-- Identify high-performing regions.
-- Discover profitable product categories.
-- Compare sales and profit performance.
-- Make informed business decisions.
+This project helps identify:
+- Best-performing regions.
+- Most profitable products.
+- Sales trends and patterns.
+- Customer purchasing behavior.
+- Opportunities for business growth.
 
 ##  Repository Structure
 
 ```text
-Superstore-Sales-Dashboard/
+Superstore-Excel-Data-Analysis/
 │
 ├── Dataset/
-│   └── Superstore Dataset
+│   └── Superstore Dataset.xlsx
 │
 ├── Dashboard/
-│   └── Superstore Dashboard.pbix
+│   └── Superstore Dashboard.xlsx
 │
 ├── Images/
-│   └── Dashboard Screenshots
+│   └── Dashboard Screenshots/
 │
 └── README.md
 ```
 
-##  How to Use This Project
+##  How to Use
 
 1. Download or clone this repository.
-2. Open the `.pbix` file using Microsoft Power BI Desktop.
-3. Refresh the dataset if required.
-4. Explore the interactive dashboard.
-5. Use filters and slicers to analyze different business dimensions.
+2. Open the Excel workbook.
+3. Explore the cleaned dataset.
+4. Review Pivot Tables and charts.
+5. Interact with the dashboard using filters and slicers.
 
 ##  Skills Demonstrated
 
 - Data Cleaning
-- Data Transformation
 - Data Analysis
-- DAX Measures
-- Power BI Dashboard Development
+- Microsoft Excel
+- Pivot Tables
+- Pivot Charts
+- Excel Formulas
+- Dashboard Development
 - Data Visualization
 - Business Intelligence
-- Analytical Thinking
-
-##  Project Purpose
-
-This project was developed as a practical data analytics project to demonstrate skills in data preparation, business intelligence, and interactive dashboard development.
 
 ##  Author : Muhammed Mishal
 
